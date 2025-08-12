@@ -1,10 +1,3 @@
---[[
-    UI Library Recreation & Enhancement
-    - Modern, clean, and polished design.
-    - Smooth animations and transitions.
-    - Mobile-first and easy to use.
-    - Follows the original API structure.
-]]
 
 --// Services & Environment Setup
 local cloneref = (cloneref or clonereference or function(instance: any) return instance end)
